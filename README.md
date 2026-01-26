@@ -32,7 +32,7 @@ No training is required — the model is pretrained and ready to use.
 
 ## 📦 Dataset
 
-Dataset link: **Coming soon**
+[Australian Bills Dataset on Roboflow](https://universe.roboflow.com/mathias-p/australian-bills-dont-delete)
 
 ---
 
