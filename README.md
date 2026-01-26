@@ -94,13 +94,13 @@ On Windows:
 * Press Windows Key + X
 * Click Terminal or PowerShell
 
-Now enter this (IMPORTANT: **change the username part** if it’s not your Windows username):
+Now enter this (IMPORTANT: **change the username part**):
 
 ```
-cd "C:\Users\663208\Downloads\Australian-Bills-Object-Detection-YOLOv5-master\Australian-Bills-Object-Detection-YOLOv5-master"
+cd "C:\Users\YOURUSERNAME\Downloads\Australian-Bills-Object-Detection-YOLOv5-master\Australian-Bills-Object-Detection-YOLOv5-master"
 ```
 
-(Only the `"663208"` part may need to be changed to your own username — otherwise the full path should work if you keep it in Downloads.)
+(Only the `"YOURUSERNAME"` needs to be changed (to your own username) — otherwise the full path should work if you keep it in Downloads. Search how to find my windows username for tutorials online.)
 
 ---
 
@@ -210,10 +210,10 @@ Here’s what the main options mean:
 
 ## 🔁 How to Run It Again Later
 
-1. Go to the project folder (remember to change the username part if needed):
+1. Go to the project folder (change the username part):
 
 ```
-cd "C:\Users\663208\Downloads\Australian-Bills-Object-Detection-YOLOv5-master\Australian-Bills-Object-Detection-YOLOv5-master"
+cd "C:\Users\YOURUSERNAME\Downloads\Australian-Bills-Object-Detection-YOLOv5-master\Australian-Bills-Object-Detection-YOLOv5-master"
 ```
 
 2. Activate the virtual environment:
