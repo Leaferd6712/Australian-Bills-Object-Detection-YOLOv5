@@ -7,6 +7,8 @@ No training is required — the model is pretrained and ready to use.
 
 [Demo Video Link (Google Drive)](https://drive.google.com/file/d/15jAMwYsDmShHRWKmkq9t5Evu0Lda0_dv/view?usp=sharing)
 
+![Quick Metrics](Screenshot%202026-01-26%20174254.png)
+
 ---
 
 ## 🚀 Features
