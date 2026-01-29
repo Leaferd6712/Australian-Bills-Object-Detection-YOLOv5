@@ -13,6 +13,12 @@ No training is required — the model is pretrained and ready to use.
 
 ---
 
+## 📦 Dataset
+
+[Australian Bills Dataset on Roboflow](https://universe.roboflow.com/mathias-p/australian-bills-object-detection/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
+
+---
+
 ## 🚀 Features
 
 * 🎥 Real-time webcam detection
@@ -31,12 +37,6 @@ No training is required — the model is pretrained and ready to use.
 * PyTorch
 * OpenCV
 * NumPy
-
----
-
-## 📦 Dataset
-
-[Australian Bills Dataset on Roboflow](https://universe.roboflow.com/mathias-p/australian-bills-object-detection/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
 
 ---
 
