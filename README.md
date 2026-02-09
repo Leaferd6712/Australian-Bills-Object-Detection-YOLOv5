@@ -5,7 +5,7 @@ This repository contains a **real-time Australian banknote (bill) object detecti
 The project demonstrates how to **run a pretrained YOLOv5 model** to detect Australian bills using your **webcam**.
 No training is required — the model is pretrained and ready to use.
 
-[Demo Video Link (Google Drive)](https://drive.google.com/file/d/15jAMwYsDmShHRWKmkq9t5Evu0Lda0_dv/view?usp=sharing)
+![Demo](new.gif)
 
 **Quick Metrics:**
 
